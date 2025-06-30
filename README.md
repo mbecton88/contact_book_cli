@@ -48,7 +48,7 @@ To get this application up and running on your local machine, follow these steps
 
 Once setup, you can launch the application:
 
-```bash
+
 python main.py
 
 
